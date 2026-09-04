@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("structure-program")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c081e8d738d28b0aa5d21df77a8f82b94b76d167")]
 [assembly: System.Reflection.AssemblyProductAttribute("structure-program")]
 [assembly: System.Reflection.AssemblyTitleAttribute("structure-program")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,36 @@
+## Очередь сборки и артефакты (Компиляция C#)
+[Bb]in/
+[Oo]bj/
+[Log]/
+
+## Результаты тестов и метрики
+TestResults/
+*.trx
+*.md.user
+
+## Специфичные файлы Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Специфичные файлы JetBrains Rider / Resharper
+.idea/
+*.sln.iml
+_ReSharper.*/
+
+## Локальные настройки и секреты
+appsettings.Development.json
+*.usersecrets
+.env
+
+## Кэш пакетов NuGet
+.nuget/
+packages/
+*.nuget.props
+*.nuget.targets
+
+## Операционная система
+.DS_Store
+Thumbs.db
