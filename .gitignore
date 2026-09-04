@@ -1,0 +1,57 @@
+## Core build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio temporary and working files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## JetBrains Rider / VS Code settings
+.idea/
+.vscode/
+*.sln.iml
+
+## User-specific files & local environment variables
+*.userprefs
+appsettings.Development.json
+appsettings.local.json
+launchSettings.json
+
+## Test results and crash logs
+[Tt]est[Rr]esult*/
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+## Packages
+*.nupkg
+**/packages/
+
